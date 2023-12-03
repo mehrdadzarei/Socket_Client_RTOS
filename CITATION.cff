@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Socket Client RTOS
+title: Socket Client program by RTOS developed for the STM32H743ZI
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
